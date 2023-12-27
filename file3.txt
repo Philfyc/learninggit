@@ -1,1 +1,2 @@
 here in file3
+std::cout<<"cout feature"<<std::endl;
