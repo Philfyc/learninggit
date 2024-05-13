@@ -8,5 +8,4 @@ adheadAAAAABBBBNNN
 devvvvvvvvvvvvvvv
 merge with commit
 orc in CH
-parquet in ClickHouse
-something in dev branch
+parquet in is supported in ClickHouse
